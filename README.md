@@ -26,3 +26,8 @@ How to Use
 Open the Power BI file located in the powerbi folder to explore the dashboard.
 
 SQL scripts are available in the sql folder to set up and query the database.
+
+Dashboard Preview
+Below is a screenshot of the interactive dashboard built with Power BI:
+
+![Power BI Dashboard](images/music.png)
