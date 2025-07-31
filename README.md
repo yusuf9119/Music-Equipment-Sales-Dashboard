@@ -1,6 +1,6 @@
 Music Equipment Sales Dashboard
 
-Project Overview
+
 This project is an end-to-end data analysis and visualization dashboard for music equipment sales. It tracks key metrics such as revenue, profit, and sales trends over time.
 
 Features
